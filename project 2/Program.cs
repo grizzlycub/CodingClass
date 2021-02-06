@@ -27,8 +27,6 @@ namespace project_2
             Console.WriteLine($"No mater what kind of {noun} you {verb} allways be shure to ware a {adjective} helmet.");
             Console.WriteLine($"Make sure to have {color} reflectors too !");
             Console.WriteLine($"The end");
-        
-            
         }
 
         private static string PromptUserForValue(string question)
