@@ -15,7 +15,7 @@ namespace project_2
             string noun = PromptUserForValue("Type a noun");
             string verb = PromptUserForValue("Type a verb");
             string animals = PromptUserForValue("Type an animal but it has to be plural");
-            string color = PrtypomptUserForValue("Type a color");
+            string color = PromptUserForValue("Type a color");
             string adjective = PromptUserForValue("Type  an ajective");
             Console.ReadKey();
 
